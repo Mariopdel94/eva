@@ -1,0 +1,49 @@
+/* The project prefix is used for several classes. It can be changed for your project name. */
+/* It is used in several classes such: eva-btn. Can be changed to whatever-btn */
+$project-prefix: 'eva';
+$title-font: 'Montserrat', sans-serif;
+$content-font: 'Open Sans', sans-serif;
+
+/* Each color creates different variations, and different classes for color, and background */
+$color-map: (
+  primary: #004977,
+  secondary: #0d74af,
+  tertiary: #009688,
+  accent: #1590d6,
+  success: #43a047,
+  warning: #ffc107,
+  danger: #d03027,
+  info: #3f51b5,
+  neutral: #333333,
+);
+
+/* Each breakpoint is used for media queries mixins */
+$resolution-breakpoints: (
+  small: 0px,
+  medium: 640px,
+  large: 1024px,
+  xlarge: 1200px,
+  xxlarge: 1440px,
+);
+
+/* Each spacer is used for margin and padding spacing classes */
+$spacers: (
+  small: 0.25rem,
+  medium: 0.5rem,
+  default: 1rem,
+  large: 1.5rem,
+);
+
+/* Each text weight creates a class named the same as the key */
+$text-weights: (
+  thin: 100,
+  extra-light: 200,
+  light: 300,
+  regular: 400,
+  normal: 400,
+  medium: 500,
+  semi-bold: 600,
+  semibold: 600,
+  bold: 700,
+  extra-bold: 800,
+);

@@ -1,0 +1,20 @@
+{
+  "name": "eva-css",
+  "version": "0.1.0",
+  "description": "SCSS / CSS Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mario Pineda",
+  "license": "ISC",
+  "keywords": [
+    "css",
+    "npm",
+    "scss",
+    "sass"
+  ],
+  "devDependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
