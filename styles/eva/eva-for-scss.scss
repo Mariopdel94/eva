@@ -1,3 +1,9 @@
+/**
+ * If you want to use Eva in your own scss rules and change them
+ * import this file. It only includes scss without any classes.
+ *
+ * Importing this file won't add into your bundle size.
+*/
 @import './_settings.scss';
 @import './_responsive.scss';
 @import './_colors.scss';

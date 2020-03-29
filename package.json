@@ -1,20 +1,21 @@
 {
   "name": "eva-css",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "SCSS / CSS Library",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Mario Pineda",
-  "license": "ISC",
+  "license": "MIT",
   "keywords": [
     "css",
     "npm",
     "scss",
     "sass"
   ],
-  "homepage": "https://github.com/Mariopdel94/eva",
+  "repository": "https://github.com/Mariopdel94/eva-css",
+  "homepage": "http://eva.mariopineda.com.mx/",
   "devDependencies": {
     "node-sass": "^4.13.1"
   }
