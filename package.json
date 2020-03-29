@@ -1,6 +1,6 @@
 {
   "name": "eva-css",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "SCSS / CSS Library",
   "main": "index.js",
   "scripts": {

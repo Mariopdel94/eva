@@ -17,7 +17,7 @@ Several quick start options are available:
 * Clone the repo: `git clone https://github.com/Mariopdel94/eva-css`
 * Install with npm: `npm install eva-css`
 
-Visit the [**styleguide page**](http://eva.mariopineda.com.mx/) for information on classes, rules, usage, etc.
+Visit the [styleguide page](http://eva.mariopineda.com.mx/) for information on classes, rules, usage, etc.
 
 **Note:** Eva uses the XY grid from Foundation 6.6.2. There's no need to install Foundation as the required files for the XY Grid are included in the installation.
 
@@ -60,7 +60,7 @@ Once installed you need to import the base file on your main styles.
 
 # Bugs and feature requests
 
-Have a bug or a feature request? [Please opean a new issue.](https://github.com/Mariopdel94/eva-css/issues/new)
+Have a bug or a feature request? [Please open a new issue.](https://github.com/Mariopdel94/eva-css/issues/new)
 
 # Creator
 
