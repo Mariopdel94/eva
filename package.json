@@ -14,6 +14,7 @@
     "scss",
     "sass"
   ],
+  "homepage": "https://github.com/Mariopdel94/eva",
   "devDependencies": {
     "node-sass": "^4.13.1"
   }
