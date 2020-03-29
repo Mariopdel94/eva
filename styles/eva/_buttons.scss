@@ -39,3 +39,8 @@
     color: color-contrast(color($bg-color, base));
   }
 }
+
+@mixin btn-rounded() {
+  border-radius: 1.5rem !important;
+  padding: 0.75rem 1.5rem !important;
+}

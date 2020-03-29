@@ -1,5 +1,9 @@
 # Eva CSS / SCSS
 
+Eva is easily customizable for your needs. You can start using it right away, however you might want to change the color palette, fonts, breakpoints, spacing values, etc. This is fully customizable under the settings file.
+
+You can even change the name of the project (which is used on some of the CSS Classes). So, instead of using the class eva-btn {}, you can change it for whatever prefix you like.
+
 Theming is supported by changing the `settings.csss` file under `theme`. In there you can add your color palette, fonts, resolution breakpoints for easier media queries in your css rules in your project.
 
 `bg-${color}-${variation}` classes are generated automatically and the contrasting text color assigned based on the [W3 color documentation guide](http://www.w3.org/TR/AERT#color-contrast) using the following formula:

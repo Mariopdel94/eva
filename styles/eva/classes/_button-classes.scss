@@ -13,6 +13,15 @@ button:disabled {
   border-color: color(primary, base);
 }
 
+.#{$project-prefix}-round-btn,
+.#{$project-prefix}-round-button,
+.#{$project-prefix}-rounded-btn,
+.#{$project-prefix}-rounded-button,
+.#{$project-prefix}-btn-rounded,
+.#{$project-prefix}-button-rounded {
+  @include btn-rounded();
+}
+
 @each $key, $color in $color-map {
   .#{$project-prefix}-btn-#{$key},
   .#{$project-prefix}-button-#{$key} {
