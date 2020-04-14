@@ -32,8 +32,11 @@ Inside the repo you'll find the following directories and files, logically group
 ```text
 eva/
 └── styles/
+    ├── _settings_.scss
+    ├── eva-for-scss.scss
+    └── eva.scss
     ├── eva/
-    │   ├── classes/
+    |   ├── classes/
     │   |   ├── _button-classes.scss
     │   |   ├── _cards.scss
     │   |   ├── _color-classes.scss
@@ -47,11 +50,8 @@ eva/
     │   ├── _buttons.scss
     │   ├── _colors.scss
     │   ├── _responsive_.scss
-    │   ├── _settings_.scss
-    │   ├── eva-for-scss.scss
-    │   └── eva.scss
     └── grid/
-        ├── Foundation required files for XY Grid 6.6.2
+    |   ├── Foundation required files for XY Grid 6.6.2
 ```
 
 # Installation
@@ -59,7 +59,7 @@ eva/
 Once installed you need to import the base file on your main styles.
 
 ```scss
-@import "~eva-css/styles/eva/eva.scss";
+@import "~eva-css/styles/eva.scss";
 ```
 
 # Bugs and feature requests
