@@ -20,6 +20,6 @@
   "repository": "https://github.com/Mariopdel94/eva-css",
   "homepage": "http://eva.mariopineda.com.mx/",
   "devDependencies": {
-    "node-sass": "^4.13.1"
+    "node-sass": "^7.0.0"
   }
 }
